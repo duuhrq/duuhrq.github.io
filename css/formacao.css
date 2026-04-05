@@ -136,6 +136,12 @@
   justify-content: space-between;
 }
 
+.faculdade-espaço{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 @media (max-width: 800px) {
   .formacao-container {
     grid-template-columns: 1fr;

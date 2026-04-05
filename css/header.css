@@ -7,6 +7,15 @@
   margin: 0 auto;
   background: #141414;
 }
+.header img{
+  width: 120px;
+  padding: 5px;
+  transition: 0.5s;
+}
+.header img:hover{
+  transform: scale(1.1);
+  }
+  
 
 .header-menu{
   justify-content: center;
